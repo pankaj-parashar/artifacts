@@ -1,0 +1,53 @@
+{
+    "type" : "templates",
+    "artifacts" : [
+        {
+            "title": "Contact Us Template V1",
+            "description": "Description about Contact Us Template",
+            "location":"contact-us/contact-us-v1",
+            "package-name": "contact-us-v1.zip",
+            "version": "1.0",
+            "aem-forms-versions": ["cloud", "6.5"],
+            "help":"http://helpex.adobe.com/forms/artifacts/template/contact-us.html",
+            "downloadUrl":"https://github.com/pankaj-parashar/artifacts/releases/download/contact-us-template-v1/contact-us-template-v1.0.zip",
+            "previewFolderUrl":"https://github.com/pankaj-parashar/artifacts/templates/contact-us/contact-us-v1/preview-renditions",
+            "thumbnailUrl":"https://github.com/pankaj-parashar/artifacts/templates/contact-us/contact-us-v1/thumbnail.jpeg"
+        },
+        {
+            "title": "Contact Us Template V2",
+            "description": "Description about Contact Us Template",
+            "location":"contact-us/contact-us-v2",
+            "package-name": "contact-us-v2.zip",
+            "version": "2.0",
+            "aem-forms-versions": ["cloud", "6.5"],
+            "help":"http://helpex.adobe.com/forms/artifacts/template/contact-us.html",
+            "downloadUrl":"https://github.com/pankaj-parashar/artifacts/releases/download/contact-us-template-v2/contact-us-template-v2.0.zip",
+            "previewFolderUrl":"https://github.com/pankaj-parashar/artifacts/templates/contact-us/contact-us-v2/preview-renditions",
+            "thumbnailUrl":"https://github.com/pankaj-parashar/artifacts/templates/contact-us/contact-us-v2/thumbnail.jpeg"
+        },
+        {
+            "title": "Survey V1",
+            "description": "Description about Survey Template",
+            "location":"survey/survey-v1",
+            "package-name": "survey-v1.zip",
+            "version": "1.0",
+            "aem-forms-versions": ["cloud", "6.5"],
+            "help":"http://helpex.adobe.com/forms/artifacts/template/survey.html",
+            "downloadUrl":"https://github.com/pankaj-parashar/artifacts/releases/download/survey-template-v1/survey-us-template-v1.0.zip",
+            "previewFolderUrl":"https://github.com/pankaj-parashar/artifacts/templates/survey/survey-v1/preview-renditions",
+            "thumbnailUrl":"https://github.com/pankaj-parashar/artifacts/templates/survey/survey-v1/thumbnail.jpeg"
+        },
+        {
+            "title": "Survey V2",
+            "description": "Description about Survey Template",
+            "location":"survey/survey-v2",
+            "package-name": "survey-v2.zip",
+            "version": "2.0",
+            "aem-forms-versions": ["cloud", "6.5"],
+            "help":"http://helpex.adobe.com/forms/artifacts/template/survey.html",
+            "downloadUrl":"https://github.com/pankaj-parashar/artifacts/releases/download/survey-template-v2/survey-us-template-v2.0.zip",
+            "previewFolderUrl":"https://github.com/pankaj-parashar/artifacts/templates/survey/survey-v2/preview-renditions",
+            "thumbnailUrl":"https://github.com/pankaj-parashar/artifacts/templates/survey/survey-v2/thumbnail.jpeg"
+        }
+    ]
+}
