@@ -32,6 +32,13 @@
 
     <description>Adobe Examples</description>
 
+    <scm>
+        <connection>scm:git:https://github.com/pankaj-parashar/artifacts</connection>
+        <developerConnection>scm:git:https://github.com/pankaj-parashar/artifacts.git</developerConnection>
+        <url>https://github.com/pankaj-parashar/artifacts/tree/master/</url>
+        <tag>HEAD</tag>
+    </scm>
+
     <properties>
 
         <aem.host>localhost</aem.host>
