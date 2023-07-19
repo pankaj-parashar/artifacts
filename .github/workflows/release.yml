@@ -27,6 +27,15 @@ jobs:
           key: ${{ runner.os }}-maven-${{ hashFiles('**/pom.xml') }}
           restore-keys: |
             ${{ runner.os }}-maven-
+            
+      # Setup Git User
+      - name: Configure git user for release commits
+        env:
+          X_GITHUB_USERNAME: ${{ secrets.ADOBE_BOT_GITHUB_USERNAME  }}
+        run: |
+          git config user.email "pankajpr@adobe.com"
+          git config user.name "Pankaj Parashar"
+
       
       # Prepare Release
       - name: Release Parent POM
