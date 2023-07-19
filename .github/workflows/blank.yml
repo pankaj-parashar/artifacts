@@ -41,4 +41,5 @@ jobs:
             ${{ runner.os }}-maven-
             
       - name: Build project with Maven
+        working-directory: ./templates/contact-us/contact-us-v1
         run: mvn -B package
