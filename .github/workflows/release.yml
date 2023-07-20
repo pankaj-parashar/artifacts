@@ -12,6 +12,8 @@ jobs:
     steps:
       # Check out Git repository
       - uses: actions/checkout@v2
+        with:
+          ref: 'main'
 
       # Set up environment with Java and Maven
       - name: Set up JDK
