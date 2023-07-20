@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.examples</groupId>
         <artifactId>com-adobe-examples</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.1-SNAPSHOT</version>
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
@@ -31,7 +31,7 @@
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
     <artifactId>templates-survey-v1</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>Templates - Survey V1</name>
     <description>Package for Survey V1 Template</description>
