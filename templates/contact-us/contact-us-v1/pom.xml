@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.examples</groupId>
         <artifactId>com-adobe-examples</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.2-SNAPSHOT</version>
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
