@@ -33,7 +33,7 @@
     <scm>
         <connection>scm:git:https://github.com/pankaj-parashar/artifacts</connection>
         <developerConnection>scm:git:https://github.com/pankaj-parashar/artifacts.git</developerConnection>
-        <url>https://github.com/pankaj-parashar/artifacts/tree/master/</url>
+        <url>https://github.com/pankaj-parashar/artifacts/tree/main/</url>
         <tag>HEAD</tag>
     </scm>
 
