@@ -24,7 +24,7 @@
 
     <packaging>pom</packaging>
 
-    <version>1.0.3-SNAPSHOT</version>
+    <version>1.0.3</version>
 
     <name>Adobe Examples</name>
 
@@ -34,7 +34,7 @@
         <connection>scm:git:https://github.com/pankaj-parashar/artifacts</connection>
         <developerConnection>scm:git:https://github.com/pankaj-parashar/artifacts.git</developerConnection>
         <url>https://github.com/pankaj-parashar/artifacts</url>
-      <tag>HEAD</tag>
+      <tag>com-adobe-examples-1.0.3</tag>
   </scm>
 
     <properties>
