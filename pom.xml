@@ -544,6 +544,10 @@
 
     </build>
 
+    <modules>
+        <module>templates/contact-us/contact-us-v1</module>
+    </modules>
+
     <profiles>
 
         <!-- Development profile: install only the bundle -->

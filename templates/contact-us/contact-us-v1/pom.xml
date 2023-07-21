@@ -23,7 +23,7 @@
     <parent>
         <groupId>com.examples</groupId>
         <artifactId>com-adobe-examples</artifactId>
-        <version>1.0.2-SNAPSHOT</version>
+        <version>1.0.5-SNAPSHOT</version>
         <relativePath>../../../pom.xml</relativePath>
     </parent>
 
@@ -31,7 +31,7 @@
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
     <artifactId>templates-contact-us-v1</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.5-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>Templates - Contact US V1</name>
     <description>Package for Contact Us V1 Template</description>
