@@ -60,7 +60,7 @@ jobs:
         with:
           upload_url: ${{ steps.create_parent_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
           asset_path: ./templates/contact-us/contact-us-v1/target/templates-contact-us-v1-1.0.6.zip
-          asset_name: contact-us-v1.zip
+          asset_name: templates-contact-us-v1-1.0.6.zip
           asset_content_type: application/zip
           
       # Prepare Release
